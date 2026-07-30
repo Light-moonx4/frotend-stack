@@ -41,7 +41,7 @@ const movies : Movie[] = [
     duration: 148,
     description: 'Un ladrón especializado en robar secretos a través de los sueños es contratado para implantar una idea en la mente de un objetivo.',
     rating: 8.8,
-    image: 'https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg',
+    image: 'https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_UF894,1000_QL80_.jpg',
   },
   {
     id: 4,
@@ -52,7 +52,7 @@ const movies : Movie[] = [
     duration: 142,
     description: 'La historia de un hombre condenado a cadena perpetua que encuentra la esperanza y la amistad en la prisión de Shawshank   .',
     rating: 9.3,
-    image: 'https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGc@._V1_.jpg',
+    image: 'https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
   },
   {
     id: 5,
@@ -63,7 +63,7 @@ const movies : Movie[] = [
     duration: 154,
     description: 'La película entrelaza varias historias de crimen en Los Ángeles, con diálogos ingeniosos y violencia estilizada.',
     rating: 8.9,
-    image: 'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5ZWM xXkEyXkFqcGc@._V1_.jpg',
+    image: 'https://m.media-amazon.com/images/I/81UTs3sC5hL._AC_UF894,1000_QL80_.jpg',
   },
   {
     id: 6,
@@ -74,7 +74,7 @@ const movies : Movie[] = [
     duration: 136,
     description: 'Un hacker descubre que la realidad que percibe es una simulación creada por máquinas inteligentes y se une a la resistencia para luchar contra ellas.',
     rating: 8.7,
-    image: 'https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4XkEyXkFqcGc@._V1_.jpg',
+    image: 'https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
   },
   {
     id: 7,
@@ -84,7 +84,7 @@ const movies : Movie[] = [
     director: "Robert Zemeckis",
     duration: 142,
     rating: 8.8,
-    image: "https://picsum.photos/seed/forrestgump/400/600",
+    image: "https://m.media-amazon.com/images/M/MV5BYTIxMzBjYzUtMDYwOC00OTFmLTllNmMtYTYxNjFhOTViM2YyXkEyXkFqcGc@._V1_.jpg",
     description:"Un hombre de gran corazón participa accidentalmente en importantes acontecimientos históricos."
   },
   { id: 8,
@@ -94,7 +94,7 @@ const movies : Movie[] = [
     director: "David Fincher",
     duration: 139,
     rating: 8.8,
-    image: "https://picsum.photos/seed/fightclub/400/600",
+    image: "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     description:"Un oficinista insatisfecho crea un club secreto junto a un misterioso vendedor de jabón."
   },
   {
@@ -105,7 +105,7 @@ const movies : Movie[] = [
     director: "Martin Scorsese",
     duration: 145,
     rating: 8.7,
-    image: "https://picsum.photos/seed/goodfellas/400/600",
+    image: "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
     description:
       "Un joven se introduce en el mundo del crimen organizado y conoce sus beneficios y consecuencias."
   },
@@ -117,7 +117,7 @@ const movies : Movie[] = [
     director: "Christopher Nolan",
     duration: 169,
     rating: 8.7,
-    image: "https://picsum.photos/seed/interstellar/400/600",
+    image: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
     description:
       "Un grupo de astronautas viaja por el espacio en busca de un nuevo hogar para la humanidad."
   },
@@ -129,7 +129,7 @@ const movies : Movie[] = [
     director: "Bong Joon-ho",
     duration: 132,
     rating: 8.5,
-    image: "https://picsum.photos/seed/parasite/400/600",
+    image: "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
     description:
       "Una familia con dificultades económicas comienza a trabajar para una familia adinerada."
   },
